@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 0401 정수 제곱근 판별">
-      <change afterPath="$PROJECT_DIR$/src/p0404.java" afterDir="false" />
+    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 0404 내적">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +99,7 @@
       <workItem from="1648735735273" duration="80000" />
       <workItem from="1648812410082" duration="259000" />
       <workItem from="1648907408169" duration="9000" />
-      <workItem from="1649066055712" duration="181000" />
+      <workItem from="1649066055712" duration="1429000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 0330 평균 구하기">
       <created>1648565148468</created>
@@ -109,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648565148469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[ADD] 0404 내적">
+      <created>1649066274030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649066274030</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[ADD] 0330 평균 구하기" />
     <MESSAGE value="[ADD] 0401 정수 제곱근 판별" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 0401 정수 제곱근 판별" />
+    <MESSAGE value="[ADD] 0404 내적" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 0404 내적" />
   </component>
 </project>
