@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 0331 핸드폰 번호 가리기">
-      <change afterPath="$PROJECT_DIR$/src/p0401.java" afterDir="false" />
+    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 0404 내적">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.p0401">
-    <configuration name="p0328" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p0328" />
-      <module name="coding-test-study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p0404">
     <configuration name="p0329" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p0329" />
       <module name="coding-test-study" />
@@ -75,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p0404" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p0404" />
+      <module name="coding-test-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p0404" />
         <item itemvalue="Application.p0401" />
         <item itemvalue="Application.p0331" />
         <item itemvalue="Application.p0330" />
         <item itemvalue="Application.p0329" />
-        <item itemvalue="Application.p0328" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +98,8 @@
       <workItem from="1648639807173" duration="12000" />
       <workItem from="1648735735273" duration="80000" />
       <workItem from="1648812410082" duration="259000" />
+      <workItem from="1648907408169" duration="9000" />
+      <workItem from="1649066055712" duration="1429000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 0330 평균 구하기">
       <created>1648565148468</created>
@@ -107,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648565148469</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[ADD] 0404 내적">
+      <created>1649066274030</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649066274030</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +134,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[ADD] 0330 평균 구하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 0330 평균 구하기" />
+    <MESSAGE value="[ADD] 0401 정수 제곱근 판별" />
+    <MESSAGE value="[ADD] 0404 내적" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 0404 내적" />
   </component>
 </project>
