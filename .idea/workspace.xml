@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 0411 소수 만들기">
+    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 0407 수박수박수박수박수박수?">
       <change afterPath="$PROJECT_DIR$/src/p0412.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.p0412">
+  <component name="RunManager" selected="Application.p0411">
+    <configuration name="p0404" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p0404" />
+      <module name="coding-test-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="p0405" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p0405" />
       <module name="coding-test-study" />
@@ -75,20 +81,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p0412" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p0412" />
-      <module name="coding-test-study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p0412" />
         <item itemvalue="Application.p0411" />
         <item itemvalue="Application.p0407" />
         <item itemvalue="Application.p0406" />
         <item itemvalue="Application.p0405" />
+        <item itemvalue="Application.p0404" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +112,6 @@
       <workItem from="1649327719757" duration="67000" />
       <workItem from="1649340513038" duration="9000" />
       <workItem from="1649676758950" duration="147000" />
-      <workItem from="1649768147094" duration="137000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 0330 평균 구하기">
       <created>1648565148468</created>
@@ -151,7 +149,6 @@
     <MESSAGE value="[ADD] 0401 정수 제곱근 판별" />
     <MESSAGE value="[ADD] 0404 내적" />
     <MESSAGE value="[ADD] 0405 나머지가 1이 되는 수 찾기" />
-    <MESSAGE value="[ADD] 0411 소수 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 0411 소수 만들기" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 0405 나머지가 1이 되는 수 찾기" />
   </component>
 </project>
