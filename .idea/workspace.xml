@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 0412 자연수 뒤집어 배열로 만들기">
+    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 0413 하샤드 수">
+      <change afterPath="$PROJECT_DIR$/src/p0414.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="0412" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,16 +37,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Polyalphabetic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.p0413">
-    <configuration name="p0406" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p0406" />
-      <module name="coding-test-study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p0414">
     <configuration name="p0407" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p0407" />
       <module name="coding-test-study" />
@@ -81,13 +75,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p0414" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p0414" />
+      <module name="coding-test-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p0414" />
         <item itemvalue="Application.p0413" />
         <item itemvalue="Application.p0412" />
         <item itemvalue="Application.p0411" />
         <item itemvalue="Application.p0407" />
-        <item itemvalue="Application.p0406" />
       </list>
     </recent_temporary>
   </component>
@@ -114,6 +115,8 @@
       <workItem from="1649676758950" duration="147000" />
       <workItem from="1649768147094" duration="137000" />
       <workItem from="1649774028774" duration="36000" />
+      <workItem from="1649853700371" duration="16000" />
+      <workItem from="1649930900503" duration="141000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 0330 평균 구하기">
       <created>1648565148468</created>
