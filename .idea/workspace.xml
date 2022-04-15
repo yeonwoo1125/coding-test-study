@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 0413 하샤드 수">
-      <change afterPath="$PROJECT_DIR$/src/p0414.java" afterDir="false" />
+    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 0414 약수의 합">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,16 +36,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Polyalphabetic" />
   </component>
-  <component name="RunManager" selected="Application.p0414">
-    <configuration name="p0407" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p0407" />
-      <module name="coding-test-study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p0415">
     <configuration name="p0407" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p0407" />
       <module name="coding-test-study" />
@@ -82,13 +74,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p0415" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p0415" />
+      <module name="coding-test-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p0415" />
         <item itemvalue="Application.p0414" />
         <item itemvalue="Application.p0413" />
         <item itemvalue="Application.p0412" />
         <item itemvalue="Application.p0411" />
-        <item itemvalue="Application.p0407" />
       </list>
     </recent_temporary>
   </component>
@@ -117,6 +116,7 @@
       <workItem from="1649774028774" duration="36000" />
       <workItem from="1649853700371" duration="16000" />
       <workItem from="1649930900503" duration="141000" />
+      <workItem from="1649932630130" duration="10000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 0330 평균 구하기">
       <created>1648565148468</created>
@@ -175,6 +175,7 @@
     <MESSAGE value="[ADD] 0405 나머지가 1이 되는 수 찾기" />
     <MESSAGE value="[ADD] 0411 소수 만들기" />
     <MESSAGE value="[ADD] 0412 자연수 뒤집어 배열로 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 0412 자연수 뒤집어 배열로 만들기" />
+    <MESSAGE value="[ADD] 0414 약수의 합" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 0414 약수의 합" />
   </component>
 </project>
