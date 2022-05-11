@@ -38,14 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-study-2" />
   </component>
-  <component name="RunManager" selected="Application.p0511">
-    <configuration name="p0421" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p0421" />
-      <module name="coding-test-study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p0512">
     <configuration name="p0422" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p0422" />
       <module name="coding-test-study" />
@@ -74,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p0512" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p0512" />
+      <module name="coding-test-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p0512" />
         <item itemvalue="Application.p0511" />
         <item itemvalue="Application.p0510" />
         <item itemvalue="Application.p0509" />
         <item itemvalue="Application.p0422" />
-        <item itemvalue="Application.p0421" />
       </list>
     </recent_temporary>
   </component>
