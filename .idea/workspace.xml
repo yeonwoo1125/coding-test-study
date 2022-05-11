@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 2016년">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 숫자 문자열과 영단어" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="0509" />
+        <entry key="$PROJECT_DIR$" value="0511" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,14 +36,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-study-2" />
   </component>
-  <component name="RunManager" selected="Application.p0511">
-    <configuration name="p0421" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p0421" />
-      <module name="coding-test-study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p0512">
     <configuration name="p0422" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p0422" />
       <module name="coding-test-study" />
@@ -74,13 +65,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p0512" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p0512" />
+      <module name="coding-test-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p0512" />
         <item itemvalue="Application.p0511" />
         <item itemvalue="Application.p0510" />
         <item itemvalue="Application.p0509" />
         <item itemvalue="Application.p0422" />
-        <item itemvalue="Application.p0421" />
       </list>
     </recent_temporary>
   </component>
@@ -200,6 +198,7 @@
     <MESSAGE value="[ADD] 0420 약수의 개수와 덧셈" />
     <MESSAGE value="[ADD] 0509 직사각형 별찍기" />
     <MESSAGE value="[UPDATE] gitignore 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] gitignore 수정" />
+    <MESSAGE value="[ADD] 숫자 문자열과 영단어" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] 숫자 문자열과 영단어" />
   </component>
 </project>
