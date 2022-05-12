@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[ADD] 2016년">
+    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[0512] 콜라츠 추측">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="0509" />
+        <entry key="$PROJECT_DIR$" value="0512" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,14 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-study-2" />
   </component>
-  <component name="RunManager" selected="Application.p0512">
-    <configuration name="p0422" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p0422" />
-      <module name="coding-test-study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p0513">
     <configuration name="p0509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p0509" />
       <module name="coding-test-study" />
@@ -74,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p0513" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p0513" />
+      <module name="coding-test-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p0513" />
         <item itemvalue="Application.p0512" />
         <item itemvalue="Application.p0511" />
         <item itemvalue="Application.p0510" />
         <item itemvalue="Application.p0509" />
-        <item itemvalue="Application.p0422" />
       </list>
     </recent_temporary>
   </component>
@@ -159,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1652100344988</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[0512] 숫자 문자열과 영단어">
+      <created>1652283115343</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652283115343</updated>
+    </task>
+    <task id="LOCAL-00007" summary="[0512] 콜라츠 추측">
+      <created>1652283278251</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1652283278251</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,7 +190,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="0512" />
                       </list>
                     </value>
                   </entry>
@@ -200,6 +214,8 @@
     <MESSAGE value="[ADD] 0420 약수의 개수와 덧셈" />
     <MESSAGE value="[ADD] 0509 직사각형 별찍기" />
     <MESSAGE value="[UPDATE] gitignore 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] gitignore 수정" />
+    <MESSAGE value="[0512] 숫자 문자열과 영단어" />
+    <MESSAGE value="[0512] 콜라츠 추측" />
+    <option name="LAST_COMMIT_MESSAGE" value="[0512] 콜라츠 추측" />
   </component>
 </project>
