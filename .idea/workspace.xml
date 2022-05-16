@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[0512] 콜라츠 추측">
+    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[0513] 부족한 금액 계산하기">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,14 +38,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-study-2" />
   </component>
-  <component name="RunManager" selected="Application.p0513">
-    <configuration name="p0509" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p0509" />
-      <module name="coding-test-study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p0516">
     <configuration name="p0510" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p0510" />
       <module name="coding-test-study" />
@@ -74,13 +67,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p0516" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p0516" />
+      <module name="coding-test-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p0516" />
         <item itemvalue="Application.p0513" />
         <item itemvalue="Application.p0512" />
         <item itemvalue="Application.p0511" />
         <item itemvalue="Application.p0510" />
-        <item itemvalue="Application.p0509" />
       </list>
     </recent_temporary>
   </component>
@@ -123,6 +123,7 @@
       <workItem from="1652100207802" duration="212000" />
       <workItem from="1652106848088" duration="2000" />
       <workItem from="1652192909005" duration="335000" />
+      <workItem from="1652499356957" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 0330 평균 구하기">
       <created>1648565148468</created>
