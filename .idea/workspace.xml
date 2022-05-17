@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[0513] 부족한 금액 계산하기">
+    <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[0516] 음양 더하기">
+      <change afterPath="$PROJECT_DIR$/src/p0517.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="0512" />
+        <entry key="$PROJECT_DIR$" value="0516" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,16 +37,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-study-2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.p0516">
-    <configuration name="p0510" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p0510" />
-      <module name="coding-test-study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p0517">
     <configuration name="p0511" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p0511" />
       <module name="coding-test-study" />
@@ -74,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p0517" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p0517" />
+      <module name="coding-test-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p0517" />
         <item itemvalue="Application.p0516" />
         <item itemvalue="Application.p0513" />
         <item itemvalue="Application.p0512" />
         <item itemvalue="Application.p0511" />
-        <item itemvalue="Application.p0510" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +125,9 @@
       <workItem from="1652106848088" duration="2000" />
       <workItem from="1652192909005" duration="335000" />
       <workItem from="1652499356957" duration="63000" />
+      <workItem from="1652707482478" duration="595000" />
+      <workItem from="1652711951402" duration="2000" />
+      <workItem from="1652797853355" duration="108000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 0330 평균 구하기">
       <created>1648565148468</created>
@@ -217,6 +221,7 @@
     <MESSAGE value="[UPDATE] gitignore 수정" />
     <MESSAGE value="[0512] 숫자 문자열과 영단어" />
     <MESSAGE value="[0512] 콜라츠 추측" />
-    <option name="LAST_COMMIT_MESSAGE" value="[0512] 콜라츠 추측" />
+    <MESSAGE value="[0516] 음양 더하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="[0516] 음양 더하기" />
   </component>
 </project>
