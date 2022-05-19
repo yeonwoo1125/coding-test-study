@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0e8207f-d7d2-48a4-bdf4-6ed7ddd77df3" name="Changes" comment="[0517] 나누어 떨어지는 숫자 배열">
-      <change afterPath="$PROJECT_DIR$/src/p0518.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/p0519.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +40,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.p0518">
-    <configuration name="p0512" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p0512" />
-      <module name="coding-test-study" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p0519">
     <configuration name="p0513" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p0513" />
       <module name="coding-test-study" />
@@ -75,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="p0519" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p0519" />
+      <module name="coding-test-study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p0519" />
         <item itemvalue="Application.p0518" />
         <item itemvalue="Application.p0517" />
         <item itemvalue="Application.p0516" />
         <item itemvalue="Application.p0513" />
-        <item itemvalue="Application.p0512" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +131,7 @@
       <workItem from="1652797853355" duration="108000" />
       <workItem from="1652799460016" duration="1000" />
       <workItem from="1652852234519" duration="296000" />
+      <workItem from="1652945808513" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="[ADD] 0330 평균 구하기">
       <created>1648565148468</created>
